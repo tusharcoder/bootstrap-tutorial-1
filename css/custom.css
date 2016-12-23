@@ -1,0 +1,17 @@
+.container-fluid {
+  margin-top: 10px;
+  margin-left:10px;
+}
+.table-head{
+  font-weight: bold;
+}
+.image{
+  height: 170px;
+  overflow: visible;
+}
+.image:hover{
+  padding: 0px;
+}
+.image img:hover{
+  border:1px solid blue;
+}
